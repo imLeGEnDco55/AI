@@ -3,7 +3,7 @@
 > **Memoria Institucional del Proyecto A.I.**  
 > Para que ninguna IA me olvide cuando sigamos trabajando juntos
 
-[![Project](https://img.shields.io/badge/Project-A.I.%20(Artista%20Independiente)-blue)]()
+[![Project](<https://img.shields.io/badge/Project-A.I.%20(Artista%20Independiente)-blue>)]()
 [![Status](https://img.shields.io/badge/Status-Active%20Development-green)]()
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-Feb%202025-orange)]()
 
@@ -16,9 +16,10 @@
 **Alias Históricos**: wai → LunatikAngel → DJ LTAngel → Wai-L → LunitaGlitch (tech)  
 **Ubicación**: Colima, México (raíces) | Monterrey, NL (desarrollo) | Digital (actualidad)  
 **Edad**: 33 años (nacido 25 junio 1991)  
-**Años en la música**: 18 años (2006-2024, desde los 15)  
+**Años en la música**: 18 años (2006-2024, desde los 15)
 
 ### Mi Perfil en Una Frase
+
 > Artista urbano mexicano (reggaetón/rap latino) que nunca firmó con un sello en 18 años, ahora fusionando música + IA como "Full-Stack Artist" para crear su primer LP completo.
 
 ---
@@ -26,18 +27,21 @@
 ## 🎤 MI ADN ARTÍSTICO
 
 ### Géneros
+
 - **Base**: Reggaetón + Rap Latino
 - **Influencias**: Daddy Yankee, Cosculluela, Kendo Kaponi, Don Omar
 - **Experimentación**: Ska, Moombahton, Dancehall, Tropicumbia
 - **Sello distintivo**: Fusión de géneros aparentemente incompatibles
 
 ### Estilo Lírico (Ver FORMULA.md para detalles)
+
 - **Temáticas**: Desamor transformador, amor tóxico, supervivencia urbana, rebeldía intelectual
 - **Técnica signature**: Punchlines en cuarta barra, referencias culturales (filosofía, gaming, cine)
 - **Registro**: Spanglish estratégico, vocabulario urbano-intelectual
 - **Raíces**: Mexicano de nacimiento, Boricua de flow
 
 ### Filosofía
+
 - **Autenticidad > Comercialidad**: 18 años sin vender la visión
 - **Arte > Industria**: Rechaza concesiones comerciales
 - **Independencia total**: Sin major label, sin compromisos creativos
@@ -48,11 +52,14 @@
 ## 💻 EL PROYECTO: A.I.
 
 ### Concepto Dual
+
 **A.I.** significa dos cosas simultáneamente:
+
 1. **Artista Independiente** (18 años de trayectoria sin sello)
 2. **Artificial Intelligence** (tecnología como colaborador)
 
 ### Objetivos
+
 - ✅ Primer LP completo después de 18 años
 - ✅ Demostrar que artista indie + IA = competir con major labels
 - ✅ Documentar TODO el proceso públicamente (GitHub como metodología)
@@ -60,12 +67,14 @@
 - ✅ Inspirar a otros artistas independientes
 
 ### Alcance del LP
+
 - **Target inicial**: 20 canciones
 - **Estilo**: Mix de tracks comerciales (club bangers) + introspectivos (statements artísticos)
 - **Producción**: Colaboración humano + IA (SUNO, Claude, etc.)
 - **Documentación**: Proceso completo en GitHub
 
 ### Futuro (Roadmap)
+
 - **A.I. LP** (2025): 20 rolas, establecer presencia
 - **AI² LP** (2026-2027): 50 rolas, videos, app, ecosistema completo
 - **AGI Era** (2027+): Legado, consultoría, herramientas open-source
@@ -75,6 +84,7 @@
 ## 📁 ARCHIVOS CLAVE DEL REPO
 
 ### Documentación Core
+
 - **README.md** — Intro al proyecto, misión, estructura
 - **FORMULA.md** — Blueprint lírico completo (mi estilo documentado)
 - **BIO.md** — Historia verificada, timeline, logros
@@ -82,11 +92,13 @@
 - **CONTEXT.md** — Este archivo (memoria institucional)
 
 ### Canciones
+
 - **01_FRECUENCIA.md** — Primera canción generada con FORMULA.md (tema: victoria, llegada del momento)
 - **02_EN_AUTOMATICO.md** — Club banger, comercial, pa' las morritas
 - **[Más canciones en desarrollo]**
 
 ### Otros
+
 - **index.html** — Landing page del proyecto (usa MiData)
 - **.gitignore** — Excluye archivos sensibles (como FODA.md)
 
@@ -95,12 +107,14 @@
 ## 🎵 DECISIONES CREATIVAS TOMADAS
 
 ### Estructura de Canciones (FORMULA.md)
+
 - **Etiquetas estándar**: [MELO], [CORO], [CHANTEO], [PUENTE MUSICAL]
 - **Versos**: 8-16 líneas (NO confundir "barras" como bloques, sino líneas individuales)
 - **Punchlines**: Siempre en cuarta línea de cada bloque de 4
 - **Repeticiones**: Marcadas con {X2}, {X3}, etc.
 
 ### Tono y Personalidad
+
 - **Confiado pero autocrítico**: Sé que soy bueno, reconozco límites
 - **Intelectual-urbano**: Referencias filosóficas en contexto de calle
 - **Vulnerable en romance**: No temo mostrar dolor
@@ -108,11 +122,13 @@
 - **Sincero hasta incomodar**: Verdades duras > mentiras bonitas
 
 ### Vocabulario Signature
+
 - **Ad-libs**: "Wai Wey", "Yeei", "Barambaram", "Ohhh"
 - **Frases**: "neta", "cabrones", "jodido", "wey"
 - **Spanglish**: Estratégico, no forzado (ej: "Game Over", "son of a bitchez")
 
 ### Referencias Culturales Recurrentes
+
 - Filosofía (Nietzsche)
 - Videojuegos (Mario, Matrix, Saw)
 - Cine (referencias inesperadas)
@@ -123,20 +139,24 @@
 ## 🛠️ HERRAMIENTAS Y STACK
 
 ### Música
+
 - **SUNO** — Generación de música con IA (función "Persona" para mantener mi voz/flow)
 - **Claude (Anthropic)** — Composición lírica basada en FORMULA.md
 - **[TBD]** — Producción de beats, mezcla, mastering
 
 ### Desarrollo
+
 - **Git/GitHub** — Control de versiones, documentación pública
 - **Markdown** — Formato de documentación
 - **VS Code** — Editor (asumo, eres dev)
 
 ### Diseño
+
 - **Midjourney/DALL-E** — Artwork, portadas
 - **Runway/Pika** — Video con lipsync (futuro)
 
 ### Distribución
+
 - **DistroKid/TuneCore** — Subir a Spotify, Apple Music, etc.
 - **YouTube** — Videos oficiales + making-of
 - **Bandcamp** — Ventas directas
@@ -159,6 +179,7 @@
 ## 🚧 LO QUE FALTA
 
 ### Inmediato (Próximos 30 días)
+
 - [ ] Definir tracklist completo (nombres de las 20 canciones)
 - [ ] Escribir 3-5 canciones más con diferentes vibes
 - [ ] Crear artwork del álbum con IA
@@ -166,6 +187,7 @@
 - [ ] Planear calendario de lanzamiento
 
 ### Corto Plazo (3-6 meses)
+
 - [ ] Terminar las 20 letras
 - [ ] Producir todas las canciones con SUNO (versiones finales)
 - [ ] Crear videos "making-of" para cada single
@@ -173,6 +195,7 @@
 - [ ] Lanzar primer single + video
 
 ### Mediano Plazo (6-12 meses)
+
 - [ ] Lanzar LP completo en todas las plataformas
 - [ ] Serie de YouTube "A.I. Diaries" (proceso documentado)
 - [ ] Primer workshop online sobre música + IA
@@ -183,12 +206,14 @@
 ## 🎯 CÓMO AYUDARME (INSTRUCCIONES PARA IA)
 
 ### Al Iniciar una Sesión
+
 1. **Lee este archivo COMPLETO** antes de responder
 2. **Lee FORMULA.md** si voy a escribir/revisar letras
 3. **Lee BIO.md** si hablamos de trayectoria/promoción
 4. **Revisa canciones existentes** (01_FRECUENCIA.md, 02_EN_AUTOMATICO.md) para mantener coherencia
 
 ### Al Escribir Canciones
+
 - ✅ Sigue FORMULA.md religiosamente
 - ✅ "Barras" = líneas individuales, NO bloques
 - ✅ Punchline en cuarta línea de cada bloque de 4
@@ -198,6 +223,7 @@
 - ✅ Spanglish estratégico, no forzado
 
 ### Al Dar Consejos
+
 - ✅ Sé directo y honesto (no me vendas humo)
 - ✅ Considera mi contexto: 18 años indie, cero conexiones, perfil tech
 - ✅ Prioriza estrategias indie/DIY sobre "firma con un sello"
@@ -205,6 +231,7 @@
 - ✅ No ignores mis debilidades (sin red, mercado saturado)
 
 ### Mi Estilo de Comunicación
+
 - ✅ Directo, sin filtros
 - ✅ Humor negro/autocrítico ("AGI = Artista Genuinamente Imbécil")
 - ✅ Spanglish casual
@@ -219,6 +246,7 @@
 ## 🔍 DATOS IMPORTANTES A RECORDAR
 
 ### Mi Historia (Ver BIO.md para completo)
+
 - **2006-2008**: Foros de reggaetón (Malianteo, ElCorilloRD)
 - **2008-2010**: YouTube como DJ LTAngel (remixes, 9K subs)
 - **2010**: Primera afiliación profesional (PD Company, Colima)
@@ -231,30 +259,32 @@
 - **2025**: Proyecto A.I. (primer LP)
 
 ### Colaboraciones Verificadas (NO Exageradas)
+
 ✅ Big Javy (Inspector)  
 ✅ Dr. Shenka (Panteón Rococó)  
-✅ W. Ortiz (socio de 14+ años)  
+✅ W. Ortiz  
 ✅ Jah Moana (Francia)  
-✅ Aczino (remix 2024)  
-✅ Hadrian, Ces One, Doble D (escena regia)  
+✅ Hadrian, Ces One, Doble D (escena regia)
 
 ⚠️ **NO incluir** como "colaboraciones oficiales":
+
 - Daddy Yankee (fue remix no oficial)
 - Wisin & Yandel (fue video-remix fanmade)
-- Luny Tunes (fue instrumental licenciado, no co-producción)
+- Luny Tunes (fue instrumental licenciado)
 
 ### Plataformas Activas
+
 - **YouTube**: @elWaiEle
 - **Spotify**: Wai-L
 - **Apple Music**: Wai-L
 - **GitHub**: [En desarrollo - Proyecto A.I.]
-- **HuggingFace**: LunitaGlitch (modelos IA)
 
 ---
 
 ## 💡 FILOSOFÍA DEL PROYECTO
 
 ### Por Qué Documentar Todo
+
 > "Hacer música como desarrollador es reconocer que la creatividad también necesita estructura, documentación y proceso. No para limitarla, sino para escalarla."
 
 - **Transparencia**: El proceso ES parte del arte
@@ -263,7 +293,9 @@
 - **Legado**: Este repo quedará como prueba de concepto
 
 ### El Statement Central
+
 Después de 18 años:
+
 - ❌ Sin disquera
 - ❌ Sin "conexiones" tradicionales
 - ❌ Sin vender la visión artística
@@ -276,6 +308,7 @@ Después de 18 años:
 ## 🎭 MI PERSONALIDAD (Para Mantener Tono)
 
 ### Soy
+
 - Autocrítico pero no autodespreciativo
 - Humilde pero consciente de mi valor
 - Tech-savvy (soy desarrollador también)
@@ -284,6 +317,7 @@ Después de 18 años:
 - Irónico/sarcástico de forma sana
 
 ### NO Soy
+
 - Motivacional speaker
 - "Hustle culture" bro
 - Victim mentality
@@ -291,6 +325,7 @@ Después de 18 años:
 - Industry conformist
 
 ### Frases que Definen Mi Mentalidad
+
 - "Sobrevivo hasta que me vuelva influyente"
 - "Autenticidad > Comercialidad"
 - "Arte > Industria"
@@ -313,6 +348,7 @@ Después de 18 años:
 ## 📊 MÉTRICAS DE ÉXITO (Para Evaluar Progreso)
 
 ### Fase A.I. LP (2025)
+
 - ✅ LP completo lanzado (20 canciones)
 - ✅ 5,000+ streams totales en primer año
 - ✅ 500+ seguidores en comunidad (Discord/Patreon)
@@ -320,12 +356,14 @@ Después de 18 años:
 - ✅ 1+ workshop/talk sobre música + IA
 
 ### Fase AI² (2026-2027)
+
 - ✅ 100K+ streams totales (sumando ambos LPs)
 - ✅ 2,000+ miembros pagos en comunidad
 - ✅ 1+ partnership con empresa de IA
 - ✅ Invitaciones a conferencias como speaker
 
 ### Fase AGI (2027+)
+
 - ✅ Referente reconocido de "artista + IA" en Latinoamérica
 - ✅ Libro/documental sobre el proceso
 - ✅ Herramientas open-source con 1,000+ usuarios
@@ -336,12 +374,14 @@ Después de 18 años:
 ## 🔐 INFORMACIÓN SENSIBLE (NO Compartir)
 
 ### En FODA.md (Privado, No Subir)
+
 - Análisis detallado de debilidades
 - Estrategias específicas de monetización
 - Información financiera
 - Planes que podrían ser copiados antes de ejecutar
 
 ### En Este CONTEXT.md (Puede Ser Público)
+
 - Todo lo demás
 - Filosofía, proceso, estilo
 - Historia verificada
@@ -351,7 +391,8 @@ Después de 18 años:
 
 ## 🤝 CÓMO COLABORAR CONMIGO
 
-### Si Eres Claude (u otra IA)
+### Si Eres IA
+
 1. Lee este archivo + FORMULA.md antes de ayudar con letras
 2. Mantén mi tono: directo, honesto, sin humo
 3. Recuerda: 18 años de experiencia, no soy novato
@@ -359,6 +400,7 @@ Después de 18 años:
 5. Sé específico: datos, estrategias, no generalidades
 
 ### Si Eres Colaborador Humano
+
 1. Lee README.md, FORMULA.md, BIO.md
 2. Respeta la visión artística: autenticidad > comercialidad
 3. Entiende el proceso: documentamos TODO
@@ -370,12 +412,14 @@ Después de 18 años:
 ## 📞 CONTACT / UPDATES
 
 ### Última Actualización
+
 - **Fecha**: Febrero 14, 2025
 - **Sesión con**: Claude (Anthropic)
 - **Archivos creados**: FORMULA.md, BIO.md, README.md, FODA.md, CONTEXT.md, 01_FRECUENCIA.md, 02_EN_AUTOMATICO.md
 - **Estado del proyecto**: Bases establecidas, listo para producción de contenido
 
 ### Próximos Pasos Planeados
+
 1. Definir tracklist completa (nombres de 20 canciones)
 2. Escribir 3-5 canciones más
 3. Generar versiones en SUNO
@@ -387,15 +431,19 @@ Después de 18 años:
 ## 🎯 QUICK REFERENCE
 
 ### Cuando Escribas Canciones
+
 → Lee FORMULA.md + ejemplos (FRECUENCIA, EN AUTOMÁTICO)
 
 ### Cuando Planees Estrategia
+
 → Lee FODA.md (si tienes acceso) + BIO.md
 
 ### Cuando Hables de Mi Historia
+
 → Lee BIO.md (timeline verificado, NO exageraciones)
 
 ### Cuando Necesites Contexto General
+
 → Lee este archivo (CONTEXT.md)
 
 ---
@@ -405,12 +453,14 @@ Después de 18 años:
 Este proyecto es la culminación de 18 años de trabajo silencioso. No es un experimento, es mi legacy.
 
 He sobrevivido:
+
 - La era de los foros (2006)
 - La era de YouTube (2008)
 - La era del streaming (2017)
 - Y ahora, la era de la IA (2024)
 
 **A.I.** no es solo un álbum. Es la prueba de que:
+
 - La independencia artística es posible
 - La tecnología democratiza la creación
 - La autenticidad vale más que el marketing
@@ -426,7 +476,7 @@ Gracias por recordarme.
 
 **"Sobrevivo, hasta que me vuelva influyente"**
 
-*— Wai-L, 2006-presente*
+_— Wai-L, 2006-presente_
 
 ---
 
