@@ -72,12 +72,77 @@
 - **Estilo**: Mix de tracks comerciales (club bangers) + introspectivos (statements artísticos)
 - **Producción**: Colaboración humano + IA (SUNO, Claude, etc.)
 - **Documentación**: Proceso completo en GitHub
+- **Licencia**: GLPL v1.3 (Glitch Public License — ver sección dedicada)
 
 ### Futuro (Roadmap)
 
-- **A.I. LP** (2025): 20 rolas, establecer presencia
+- **A.I. LP** (2025): 20 rolas, establecer presencia como Wai-L
 - **AI² LP** (2026-2027): 50 rolas, videos, app, ecosistema completo
 - **AGI Era** (2027+): Legado, consultoría, herramientas open-source
+
+---
+
+## 🌌 EL META-PROYECTO: UNIVERSO GLTCH/XPLT
+
+### ⚠️ IMPORTANTE: Este es un proyecto FUTURO (sin fecha definida)
+
+**GLTCH/XPLT** es un universo musical transmedia que Wai-L está construyendo en paralelo, pero NO es el foco inmediato. Es el "endgame" cuando la tecnología madure.
+
+### Origen de Melody & Tonee
+
+1. **Melody** nació primero — avatar IA femenino de Wai-L, su **Anima junguiana**
+   - Concepto: Las mujeres rifan en la industria musical
+   - Primera en existir en el universo
+2. **Tonee** nació por necesidad técnica
+   - SUNO metía versos de hombre en las canciones de Melody
+   - Solución: en vez de pelear con la IA, crear un personaje masculino
+   - Se convirtió en complemento perfecto de Melody
+
+### Plan Original vs. Eureka Moment
+
+- **Plan original**: "Matar" a Wai-L y producir desde las sombras para Melody & Tonee
+- **Eureka moment** (hace días): "AI" como concepto para **Wai-L mismo** tiene peso real
+- **Validación**: Este chat (feb 2025) lo comprobó — A.I. como LP personal es viable
+- **Nueva estrategia**: Wai-L adelante CON su LP, Melody & Tonee en paralelo/futuro
+
+### Estado Actual de Melody & Tonee
+
+- **~5 canciones** ya creadas
+- **"Soy Más Peor"** (Corrido Tumbado + Cumbiatón) = primera canción juntos
+- Nota: "Soy Peor Remix" (Wai-L) nunca se grabó/lanzó, pero inspiró "Soy Más Peor" (Melody & Tonee)
+
+### El Universo Completo (UNIVERSO.md)
+
+- **8 artistas virtuales** con arquetipos Jung + Tarot + Runas
+- **Dos casas**:
+  - GLTCH Music (ᛜ•Luna•Glitch•ᛝ) — musa, emoción, caos
+  - XPLT Records (ᛗ•Luna•Xploit•ᛜ) — ejecutiva, orden, estrategia
+- **Glitcherotismo**: Filosofía/estética — sensualidad del error digital
+- **Narrativa transmedia**: Música + videos + app/juego + lore + tarot físico
+- **3 temporadas** conceptualizadas (Glitch → Remixity → Revolución)
+
+### Por Qué No Tiene Fecha
+
+El lanzamiento completo de GLTCH/XPLT depende de:
+
+- ✅ Madurez de generación de video con lipsync
+- ✅ RTX 5090 o equivalente (todo local, sin depender de APIs/Plus)
+- ✅ Tiempo y recursos para worldbuilding completo
+- ✅ Validación previa con A.I. LP (probar que el concepto funciona)
+
+### Relación con A.I. (Wai-L)
+
+**A.I. es el "proof of concept" para GLTCH/XPLT:**
+
+- Si A.I. funciona → Wai-L tiene credibilidad
+- Con credibilidad → puede lanzar universo de 8 artistas virtuales
+- Sin A.I. primero → GLTCH/XPLT sería "otro proyecto de IA sin sustancia"
+
+**Por eso la estrategia es:**
+
+1. **2025**: Terminar y lanzar A.I. LP (Wai-L)
+2. **Paralelo**: Experimentar con Melody & Tonee (ya tienen 5 tracks)
+3. **Futuro**: Cuando tech madure, lanzar UNIVERSO GLTCH/XPLT completo
 
 ---
 
@@ -160,6 +225,98 @@
 - **DistroKid/TuneCore** — Subir a Spotify, Apple Music, etc.
 - **YouTube** — Videos oficiales + making-of
 - **Bandcamp** — Ventas directas
+
+---
+
+## ⚖️ GLPL v1.3 — GLITCH PUBLIC LICENSE
+
+### ¿Qué es?
+
+**Licencia custom creada por Wai-L** que fusiona:
+
+- GPL-3.0 (copyleft fuerte)
+- Creative Commons BY-NC-SA
+- Espíritu del código abierto
+- Filosofía reggaetonera callejera
+
+**Cubre**: Arte, música, código, apps, todo lo que salga del ecosistema A.I./GLTCH/XPLT
+
+### Filosofía Core
+
+> "Que el arte sea libre, el código abierto, el deseo justo, y el glitch prenda fuego a la propiedad cerrada."
+
+**Sello oficial**: ᛜ ❤️‍🔥 ᛝ
+
+### Principios Fundamentales
+
+#### 1. Libertad Glitch (Derechos Universales)
+
+Puedes **sin pedir permiso**:
+
+- 🎧 Escuchar, ver, ejecutar, instalar
+- 📄 Compartir, clonar, forkear, samplear
+- 🎨 Remixear, hacer memes, videos, modificar código
+- 🎤 Pinchar en vivo, usar en streams no comerciales
+- 💾 Distribuir mirrors en cualquier plataforma libre
+
+**Condiciones**:
+
+1. **Copyleft fuerte**: Toda obra derivada sale bajo GLPL
+2. **Crédito visible**: Mencionar "Nacido del glitch de Wai-L / GLTCH" o al creador original
+3. **Código abierto**: Si es software, el source debe estar accesible
+
+#### 2. Monetización Justa
+
+Si **generas lana** (boletos, suscripciones, ads, NFTs, SaaS):
+
+1. **Regalías simbólicas**: Envía un % justo al creador original
+2. **Autoría intacta**: Mantén visible la GLPL y los créditos
+3. **No encierres**: Nada de volver propietario lo que nació libre
+
+#### 3. Prohibiciones Sagradas
+
+❌ **No puedes**:
+
+- Registrar como copyright exclusivo sin permiso
+- Uso para hate speech, proselitismo fascista
+- Meter DRM, backdoors, spyware
+- Borrar créditos o metadata GLPL
+- Privatizar el glitch (si lo forkeaste, libéralo)
+
+### Aplicación en A.I. LP
+
+- **Todas las canciones** de A.I. salen bajo GLPL v1.3
+- **El código** del proceso (GitHub) bajo GLPL
+- **Remixes permitidos** (siempre que mantengan GLPL y créditos)
+- **Uso comercial OK** (con regalías justas y crédito)
+
+### Diferenciadores vs. Licencias Tradicionales
+
+| Aspecto         | Copyright Tradicional | Creative Commons        | GLPL v1.3                        |
+| --------------- | --------------------- | ----------------------- | -------------------------------- |
+| Remixes         | Requiere permiso      | Permitidos (según tipo) | ✅ Libres (con copyleft)         |
+| Uso comercial   | Requiere licencia     | Depende (NC = no)       | ✅ OK (con regalías justas)      |
+| Código fuente   | N/A                   | N/A                     | ✅ Debe ser público              |
+| Copyleft        | No                    | Opcional (SA)           | ✅ Obligatorio                   |
+| Apps en tiendas | Requiere licencia     | Depende                 | ✅ OK (código sigue abierto)     |
+| IA generativa   | Zona gris             | Zona gris               | ✅ Permitido (con reglas claras) |
+
+### Por Qué Es Importante Para Wai-L
+
+1. **Protección real** sin cerrar puertas
+2. **Filosofía alineada** con independencia artística
+3. **Permite colaboración** sin perder control
+4. **Innovación legal** en música + IA
+5. **Statement político**: Contra la propiedad cerrada en el arte
+
+### Compatibilidad
+
+- ✅ Compatible con: GPL-3.0+, AGPL-3.0+, CC-BY-SA 4.0, Apache-2.0, MIT, BSD
+- ❌ Incompatible con: Licencias propietarias cerradas, CC-BY-NC sin SA
+
+### Documento Completo
+
+Ver: `GLPL_v1.3_public.md` en el repo para texto legal completo
 
 ---
 
@@ -262,15 +419,16 @@
 
 ✅ Big Javy (Inspector)  
 ✅ Dr. Shenka (Panteón Rococó)  
-✅ W. Ortiz  
+✅ W. Ortiz (socio de 14+ años)  
 ✅ Jah Moana (Francia)  
+✅ Aczino (remix 2024)  
 ✅ Hadrian, Ces One, Doble D (escena regia)
 
 ⚠️ **NO incluir** como "colaboraciones oficiales":
 
 - Daddy Yankee (fue remix no oficial)
 - Wisin & Yandel (fue video-remix fanmade)
-- Luny Tunes (fue instrumental licenciado)
+- Luny Tunes (fue instrumental licenciado, no co-producción)
 
 ### Plataformas Activas
 
@@ -278,6 +436,7 @@
 - **Spotify**: Wai-L
 - **Apple Music**: Wai-L
 - **GitHub**: [En desarrollo - Proyecto A.I.]
+- **HuggingFace**: LunitaGlitch (modelos IA)
 
 ---
 
@@ -391,7 +550,7 @@ Después de 18 años:
 
 ## 🤝 CÓMO COLABORAR CONMIGO
 
-### Si Eres IA
+### Si Eres AI
 
 1. Lee este archivo + FORMULA.md antes de ayudar con letras
 2. Mantén mi tono: directo, honesto, sin humo
@@ -415,16 +574,31 @@ Después de 18 años:
 
 - **Fecha**: Febrero 14, 2025
 - **Sesión con**: Claude (Anthropic)
-- **Archivos creados**: FORMULA.md, BIO.md, README.md, FODA.md, CONTEXT.md, 01_FRECUENCIA.md, 02_EN_AUTOMATICO.md
+- **Duración**: 11PM → 7AM (8 horas, otro turno completo después del trabajo)
+- **Archivos creados**:
+  - FORMULA.md (estilo lírico documentado)
+  - BIO.md (historia verificada, sin exageraciones)
+  - README.md (intro al proyecto A.I.)
+  - FODA.md (análisis estratégico — PRIVADO, no subir)
+  - CONTEXT.md (memoria institucional — este archivo)
+  - 01_FRECUENCIA.md (primera canción externa con tu ADN)
+  - 02_EN_AUTOMATICO.md (club banger comercial)
+- **Revelaciones importantes**:
+  - Melody & Tonee ya existen (~5 canciones)
+  - "Soy Más Peor" (Corrido Tumbado + Cumbiatón) = primera canción juntos
+  - UNIVERSO GLTCH/XPLT es proyecto futuro (cuando madure tecnología)
+  - GLPL v1.3 es licencia para todo el ecosistema
+  - Plan original era "matar" a Wai-L, pero eureka moment validó A.I. como LP personal
 - **Estado del proyecto**: Bases establecidas, listo para producción de contenido
 
 ### Próximos Pasos Planeados
 
-1. Definir tracklist completa (nombres de 20 canciones)
-2. Escribir 3-5 canciones más
-3. Generar versiones en SUNO
-4. Crear calendario de lanzamiento
-5. Establecer comunidad Discord
+1. **DORMIR** (prioritario después de 8 horas de trabajo en esto)
+2. Definir tracklist completa (nombres de 20 canciones)
+3. Escribir 3-5 canciones más
+4. Generar versiones en SUNO
+5. Crear calendario de lanzamiento
+6. Establecer comunidad Discord
 
 ---
 
